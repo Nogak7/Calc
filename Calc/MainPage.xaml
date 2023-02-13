@@ -29,7 +29,7 @@
             <Button x:Name="add" Grid.Row="4" Grid.Column="3" Text="+" Clicked="add_Clicked"></Button>
             <Button x:Name="zero" Grid.Row="5" Grid.Column="0" Text="0"  Clicked="Num_Clicked" Grid.ColumnSpan="2"></Button>
             <Button x:Name="dot" Grid.Row="5" Grid.Column="2" Text="."  Clicked="dot_Clicked"></Button>
-            <Button x:Name="eq" Grid.Row="5" Grid.Column="3" Text="=" Clicked="sub_Clicked"></Button>
+            <Button x:Name="eq" Grid.Row="5" Grid.Column="3" Text="=" Clicked="eq_Clicked"></Button>
             
         </Grid>   
         
